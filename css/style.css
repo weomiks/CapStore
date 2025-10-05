@@ -584,7 +584,7 @@ body {
     /*Mobile devices*/
     .nav {
         flex-direction: column;
-        gap: 15px;
+        gap: 8px;
     }
 
     .menu {
